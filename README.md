@@ -38,8 +38,6 @@ Ce projet vise à analyser et classifier des tweets pour détecter la présence 
 - Utilisation d'une matrice de confusion pour visualiser les résultats.
 - Calcul et interprétation des courbes **ROC-AUC** pour évaluer la performance des modèles.
 
-### 🔹 6. Rapport et documentation
-- Rédaction d’un rapport détaillant : collecte, nettoyage, modélisation et évaluation des données.
 
 ---
 
